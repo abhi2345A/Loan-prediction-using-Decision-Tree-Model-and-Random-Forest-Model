@@ -8,7 +8,9 @@ on comparison of classification report it was observed that Random forest did it
 
 Decision Tree:-
 classification report-------------
+
           precision           recall  f1-score   support
+          
 
           0                    0.86      0.82      0.84      2431
           1                    0.20      0.25      0.22       443
@@ -21,7 +23,9 @@ avg / total         0.75
 
 Random Forest:-
 classification report--------------
+
           precision           recall  f1-score   support
+          
 
           0                   0.85      1.00      0.92      2431
           1                   0.47      0.02      0.03       443
